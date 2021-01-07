@@ -1,0 +1,177 @@
+*
+{
+margin: 0;	
+padding: 0;
+}
+
+body
+{
+	background-color: #37588B;
+	background-image: url(Images/BG.jpg);
+	background-attachment: fixed;
+	font-size: 12;
+}
+
+#container
+{
+	width: 960px;
+	height: 725px;
+	background-color: #839CC3;
+	border: solid thick #5472A2;
+	padding: 10px 0 0 0;
+	margin: 0 auto;
+}
+
+#container
+{
+	width: 960px;
+	height: 725px;
+	background-color: #839CC3;
+	border: solid thick #5472A2;
+	padding: 10px 0 0 0;
+	margin: 0 auto;
+}
+
+#gameContainer
+{
+	width: 960px;
+	height: 870px;
+	background-color: #839CC3;
+	border: solid thick #5472A2;
+	padding: 10px 0 0 0;
+	margin: 0 auto;
+}
+
+h1
+{
+	margin: 15px 0 0 0;
+	font-size: 50px;
+}
+
+header
+{
+	margin-top: 10px;
+	height: 100px;
+	width: 880px;
+	padding:25px;
+	background-color: #e1e2ed;
+	color: #102F5F;
+	border: solid thick #224378;
+	margin: 0 10px 10px 10px;
+	text-align: center;
+}
+
+nav
+{
+	width: 910px;
+	background-color: #e1e2ed;
+	border: solid thick #224378;
+	padding: 10px;
+	margin: 0 10px 10px 10px;
+}
+
+a
+{
+	color: black;
+}
+
+a:hover
+{
+	color: purple;
+}
+
+a:visited
+{
+	color: blue;
+}
+
+nav li
+{
+	display:inline;
+	list-style-type: none;
+	margin-left: 55px;
+}
+
+aside
+{
+	width: 200px;
+	margin: 0 0 10px 10px;
+	height: 420px;
+	padding: 0px;
+	background-color: #e1e2ed;
+	color: #102F5F;
+	border: solid thick #224378;
+	float: left;
+}
+
+aside p
+{
+	padding: 0 10px 0 10px;
+}
+
+img
+{
+	border: solid thick #224378;
+	margin-top: 5px;
+	margin-left: 5px;
+	background-color: #839CC3;
+	
+}
+
+section
+{
+	width: 690px;
+	height: 400px;
+	margin: 0 10px 10px 0;
+	padding: 10px;
+	background-color: #e1e2ed;
+	color: #102F5F;
+	border: solid thick #224378;
+	float: right;
+	text-indent: 50px;
+	line-height: 2;
+}
+
+footer
+{
+	background-color: #e1e2ed;
+	color: #102F5F;
+	border: solid thick #224378;
+	padding: 10px;
+	margin: 0 10px 0 10px;
+	clear: both;
+}
+
+table
+{
+	border: solid thick #224378;
+	border-collapse: collapse;
+	background-color: #e1e2ed;
+	margin: 0 10px 0 10px;
+	
+}
+
+tr, td, th
+{
+	border: solid thick #224378;
+	padding: 3px;
+	width: 500px;
+	height: 30px;
+	text-align: center;
+	color: #102F5F;
+}
+
+caption
+{
+	caption-side: top;
+	font-weight: bold;
+	margin: 5px;
+}
+
+iframe
+{
+	padding: 10px 0 0 70px;
+	width: 960px;
+	height: 725px;
+	border-style: none;
+}
